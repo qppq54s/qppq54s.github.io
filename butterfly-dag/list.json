@@ -4,7 +4,7 @@
     "cn_name": "SQL分析模板",
     "description": "a sql analysis dag, to show the relation between sql",
     "cn_description": "用图形表示不同SQL之间，变量的分析模板",
-    "cover": "/analysis/cover.png",
+    "cover": "/butterfly-dag/analysis/cover.png",
     "dir": "analysis",
     "dependencies": {
       "butterfly-dag": "*",
@@ -19,7 +19,7 @@
     "cn_name": "环形关系分析图",
     "description": "a circle dag to show the relation between entities",
     "cn_description": "环形分析图，用于更好帮助分析、展示关联具有比例的关联数据、实体的关系",
-    "cover": "/circle/cover.png",
+    "cover": "/butterfly-dag/circle/cover.png",
     "dir": "circle",
     "dependencies": {
       "butterfly-dag": "*",
@@ -34,7 +34,7 @@
     "cn_name": "紧凑盒树",
     "description": "a tree which is layout by compact box tree",
     "cn_description": "一种利用紧凑盒树进行布局的DAG图",
-    "cover": "/compact-box-tree/cover.png",
+    "cover": "/butterfly-dag/compact-box-tree/cover.png",
     "dir": "compact-box-tree",
     "dependencies": {
       "butterfly-dag": "*",
@@ -49,7 +49,7 @@
     "cn_name": "中心布局",
     "description": "a dag which is layout by concent layout",
     "cn_description": "使用中心布局的DAG图",
-    "cover": "/concent-layout/cover.png",
+    "cover": "/butterfly-dag/concent-layout/cover.png",
     "dir": "concent-layout",
     "dependencies": {
       "butterfly-dag": "*",
@@ -64,7 +64,7 @@
     "cn_name": "dagre布局",
     "description": "a demo to show how to use dagre layout",
     "cn_description": "dagre布局示例",
-    "cover": "/dagreLayout/cover.png",
+    "cover": "/butterfly-dag/dagreLayout/cover.png",
     "dir": "dagreLayout",
     "dependencies": {
       "butterfly-dag": "*",
@@ -80,7 +80,7 @@
     "cn_name": "决策树",
     "description": "a decision tree",
     "cn_description": "决策树场景DAG",
-    "cover": "/decision/cover.png",
+    "cover": "/butterfly-dag/decision/cover.png",
     "dir": "decision",
     "dependencies": {
       "butterfly-dag": "*",
@@ -95,7 +95,7 @@
     "cn_name": "二极管模拟",
     "description": "dag to mock diodes",
     "cn_description": "一个模拟二极管电路的DAG图",
-    "cover": "/diodes/cover.png",
+    "cover": "/butterfly-dag/diodes/cover.png",
     "dir": "diodes",
     "dependencies": {
       "butterfly-dag": "*",
@@ -110,7 +110,7 @@
     "cn_name": "紧急情况决策树",
     "description": "a dag to show to how to make a decision when in a emergency",
     "cn_description": "一个决策树，用于展示如何在紧急情况下做决定",
-    "cover": "/emergency/cover.png",
+    "cover": "/butterfly-dag/emergency/cover.png",
     "dir": "emergency",
     "dependencies": {
       "butterfly-dag": "*",
@@ -126,7 +126,7 @@
     "cn_name": "紧急情况决策树2",
     "description": "yet another dag to show to how to make a decision when in a emergency",
     "cn_description": "另外一个决策树，用于展示如何在紧急情况下做决定",
-    "cover": "/emergency2/cover.png",
+    "cover": "/butterfly-dag/emergency2/cover.png",
     "dir": "emergency2",
     "dependencies": {
       "butterfly-dag": "*",
@@ -142,7 +142,7 @@
     "cn_name": "实体关系图",
     "description": "a dag to show relationship between entities",
     "cn_description": "用于描述实体关系之间的DAG图",
-    "cover": "/entity-relationship/cover.png",
+    "cover": "/butterfly-dag/entity-relationship/cover.png",
     "dir": "entity-relationship",
     "dependencies": {
       "butterfly-dag": "*",
@@ -158,7 +158,7 @@
     "cn_name": "流程图",
     "description": "a dag to display a flow",
     "cn_description": "用于展示流程的DAG图",
-    "cover": "/flow/cover.png",
+    "cover": "/butterfly-dag/flow/cover.png",
     "dir": "flow",
     "dependencies": {
       "butterfly-dag": "*",
@@ -174,7 +174,7 @@
     "cn_name": "forceLayout布局",
     "description": "a dag to display forceLayout",
     "cn_description": "用于展示forceLayout布局的DAG图",
-    "cover": "/force/cover.png",
+    "cover": "/butterfly-dag/force/cover.png",
     "dir": "force",
     "dependencies": {
       "butterfly-dag": "*",
@@ -189,7 +189,7 @@
     "cn_name": "fruchterman布局",
     "description": "a dag to display Layout of fruchterman",
     "cn_description": "用于展示fruchterman布局的DAG图",
-    "cover": "/fruchterman/cover.png",
+    "cover": "/butterfly-dag/fruchterman/cover.png",
     "dir": "fruchterman",
     "dependencies": {
       "butterfly-dag": "*",
@@ -204,7 +204,7 @@
     "cn_name": "grid布局",
     "description": "a dag to display Layout of grid",
     "cn_description": "用于展示grid布局的DAG图",
-    "cover": "/grid/cover.png",
+    "cover": "/butterfly-dag/grid/cover.png",
     "dir": "grid",
     "dependencies": {
       "butterfly-dag": "*",
@@ -219,7 +219,7 @@
     "cn_name": "缩进式树",
     "description": "a dag to show to how to make a indented-tree",
     "cn_description": "一个缩进式的树",
-    "cover": "/indented-tree/cover.png",
+    "cover": "/butterfly-dag/indented-tree/cover.png",
     "dir": "indented-tree",
     "dependencies": {
       "butterfly-dag": "*",
@@ -234,7 +234,7 @@
     "cn_name": "工业制作顺序图",
     "description": "a dag to show to how to make a industrial production sequence diagram",
     "cn_description": "一个工业制作顺序图",
-    "cover": "/industry/cover.png",
+    "cover": "/butterfly-dag/industry/cover.png",
     "dir": "industry",
     "dependencies": {
       "butterfly-dag": "*",
@@ -249,7 +249,7 @@
     "cn_name": "网格背景模板",
     "description": "a dag to show to how to use grid layout and custom anchors",
     "cn_description": "网格背景模板、自定义锚点",
-    "cover": "/liteGraph/cover.png",
+    "cover": "/butterfly-dag/liteGraph/cover.png",
     "dir": "liteGraph",
     "dependencies": {
       "butterfly-dag": "*",
@@ -264,7 +264,7 @@
     "cn_name": "登录流程图",
     "description": "a dag to show to how to make a Login sequence diagram",
     "cn_description": "一个登录顺序流程图",
-    "cover": "/login/cover.png",
+    "cover": "/butterfly-dag/login/cover.png",
     "dir": "login",
     "dependencies": {
       "butterfly-dag": "*",
@@ -279,7 +279,7 @@
     "cn_name": "脑图",
     "description": "a dag to show to how to make a mind map",
     "cn_description": "一个脑图（思维导图）",
-    "cover": "/mindMap/cover.png",
+    "cover": "/butterfly-dag/mindMap/cover.png",
     "dir": "mindMap",
     "dependencies": {
       "butterfly-dag": "*",
@@ -294,7 +294,7 @@
     "cn_name": "插件图",
     "description": "a dag to show to how to make a mind map",
     "cn_description": "一个脑图（思维导图）",
-    "cover": "/pluginPanel/cover.png",
+    "cover": "/butterfly-dag/pluginPanel/cover.png",
     "dir": "pluginPanel",
     "dependencies": {
       "butterfly-dag": "*",
@@ -309,7 +309,7 @@
     "cn_name": "政策顺序图",
     "description": "a dag to show to how to make a Policy sequence diagram",
     "cn_description": "一个政策顺序图",
-    "cover": "/policy/cover.png",
+    "cover": "/butterfly-dag/policy/cover.png",
     "dir": "policy",
     "dependencies": {
       "butterfly-dag": "*",
@@ -324,7 +324,7 @@
     "cn_name": "radial布局",
     "description": "a dag to display Layout of radial",
     "cn_description": "用于展示radial布局的DAG图",
-    "cover": "/radial/cover.png",
+    "cover": "/butterfly-dag/radial/cover.png",
     "dir": "radial",
     "dependencies": {
       "butterfly-dag": "*",
@@ -339,7 +339,7 @@
     "cn_name": "react版本模板",
     "description": "a demo of butterfly-react",
     "cn_description": "react版本使用样例",
-    "cover": "/react/cover.png",
+    "cover": "/butterfly-dag/react/cover.png",
     "dir": "react",
     "dependencies": {
       "butterfly-dag": "*",
@@ -357,7 +357,7 @@
     "cn_name": "书本关系图",
     "description": "a dag to show to how to make a relational diagram of Book",
     "cn_description": "一个书本关系图",
-    "cover": "/relationalBooks/cover.png",
+    "cover": "/butterfly-dag/relationalBooks/cover.png",
     "dir": "relationalBooks",
     "dependencies": {
       "butterfly-dag": "*",
@@ -372,7 +372,7 @@
     "cn_name": "人的网络关系图",
     "description": "a dag to show to how to make a relational diagram of people",
     "cn_description": "一个人的网络关系图",
-    "cover": "/relationalNetwork/cover.png",
+    "cover": "/butterfly-dag/relationalNetwork/cover.png",
     "dir": "relationalNetwork",
     "dependencies": {
       "butterfly-dag": "*",
@@ -387,7 +387,7 @@
     "cn_name": "规则树",
     "description": "a dag to show to how to make a rule-tree",
     "cn_description": "一个规则树",
-    "cover": "/rule-tree/cover.png",
+    "cover": "/butterfly-dag/rule-tree/cover.png",
     "dir": "rule-tree",
     "dependencies": {
       "butterfly-dag": "*",
@@ -403,7 +403,7 @@
     "cn_name": "清单图",
     "description": "a dag to show to how to make a schedule",
     "cn_description": "一个清单图",
-    "cover": "/schedule/cover.png",
+    "cover": "/butterfly-dag/schedule/cover.png",
     "dir": "schedule",
     "dependencies": {
       "butterfly-dag": "*",
@@ -418,7 +418,7 @@
     "cn_name": "清单图2",
     "description": "yet another dag to show to how to make a schedule",
     "cn_description": "另外一个清单图",
-    "cover": "/schedule2/cover.png",
+    "cover": "/butterfly-dag/schedule2/cover.png",
     "dir": "schedule2",
     "dependencies": {
       "butterfly-dag": "*",
@@ -433,7 +433,7 @@
     "cn_name": "系统数据流图",
     "description": "a dag to show system data flow",
     "cn_description": "用于描述系统数据流的DAG图",
-    "cover": "/system/cover.png",
+    "cover": "/butterfly-dag/system/cover.png",
     "dir": "system",
     "dependencies": {
       "butterfly-dag": "*",
